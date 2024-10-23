@@ -100,7 +100,7 @@ spec:
         image: mcr.microsoft.com/azurelinux/base/influxdb:2.7
         resources:
           limits:
-            memory: "8Gi"
+            memory: "1Gi"
             cpu: 1
         ports:
         - name: api
