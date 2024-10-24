@@ -5,6 +5,7 @@ resources:
   - ../main_ui_backend_api/operations/backend_db.yaml
   - ../main_ui_backend_api/operations/backend_api.yaml
   - ../footfall_ai_api/operations/footfall.yaml
+  - ../shopper_insights_api/operations/shopper-insights.yaml
   - ../genie_api/operations/influxdb.yaml
   - ../genie_api/operations/influxdb-setup.yaml
   - ../genie_api/operations/mssql.yaml
