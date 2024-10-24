@@ -4,3 +4,12 @@ resources:
   - ../genie_api/operations/influxdb.yaml
   - ../genie_api/operations/mssql.yaml
   - ../main_ui_backend_api/operations/backend_db.yaml
+  - ../genie_api/operations/influxdb-setup.yaml
+  - ../genie_api/operations/mssql-setup.yaml
+  - ../main_ui/operations/rtsp.yaml
+  - ../main_ui_backend_api/operations/backend_api.yaml
+  - ../footfall_ai_api/operations/footfall.yaml
+  - ../genie_api/operations/genie-api.yaml
+  - ../genie_api/operations/genie-simulator.yaml
+  - ../main_ui/operations/ui.yaml
+
